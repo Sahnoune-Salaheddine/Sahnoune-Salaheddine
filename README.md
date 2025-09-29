@@ -7,25 +7,10 @@
 
 ---
 
-### 🌱 About Me
+### 🔗 Connect with me
 - 🇲🇦 Based in Morocco
 - 💻 Full Stack Developer: passionate about building web & mobile applications
 - 📫 Reach me at: **[salah.sahnoune.7@gmail.com](mailto:salah.sahnoune.7@gmail.com)**
-
----
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/salaheddine-sahnoune" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/Sahnoune-Salaheddine" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
-  </a>
-  <a href="https://www.figma.com/@salaheddine" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="30" width="40"/>
-  </a>
-</p>
 
 ---
 
@@ -41,7 +26,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </p>
 
