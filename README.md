@@ -2,16 +2,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Salaheddine Sahnoune</h1>
-<h3 align="center">A Passionate Moroccan Full Stack Developer 🚀</h3>
+<h1 align="center">Welcome To My Github</h1>
+<h3 align="center">I'm Salaheddine SAHNOUNE, a passionate Full Stack Software Developer with experience in building web and mobile applications using Python, Django, Flask, React.js, Node.js, Java, and ASP.NET, and a variety of other modern libraries and frameworks.</h3>
 
 ---
 
 ### 🌱 About Me
 - 🇲🇦 Based in Morocco
 - 💻 Full Stack Developer: passionate about building web & mobile applications
-- 🌱 Currently learning **Java/JEE**
-- 💬 Ask me about **PHP, JavaScript, CSS**
 - 📫 Reach me at: **[salah.sahnoune.7@gmail.com](mailto:salah.sahnoune.7@gmail.com)**
 
 ---
@@ -63,6 +61,7 @@
 |---------|-------------|------|
 | **Portfolio Web** | Personal portfolio with React & Tailwind | [Live](https://sahnoune-salaheddine.github.io/FolioSahnoune/) |
 | **Movie Recommender** | ML-based movie recommendation web app (Flask + React) | [Repo](https://github.com/Sahnoune-Salaheddine/RcmdMoviesAML) |
+| **App Desktop Car Rental** | Car Rental Application (Python + PQt5 + MYSQL) | [Repo](https://github.com/Sahnoune-Salaheddine/Gestion_Location_Voitures) |
 | **Open Source Contribution** | Various contributions to open source projects | [GitHub](https://github.com/Sahnoune-Salaheddine?tab=repositories) |
 
 ---
